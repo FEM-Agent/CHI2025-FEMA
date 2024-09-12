@@ -1,0 +1,10 @@
+flask
+hashlib
+json
+os
+random
+collections
+datetime
+openai
+numpy
+sentence-transformers
