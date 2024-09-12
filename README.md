@@ -26,14 +26,22 @@ Follow these steps to install and run the project:
     pip install -r requirements.txt
     ```
 
-3. **Configure GPT API**:
+3. **Download Sentence-Transformers model**:
+    - Download the pre-trained model `all-MiniLM-L6-v2` from the [Hugging Face model hub](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2).
+    - Create a directory named `Models` in the project root if it doesn't exist:
+      ```bash
+      mkdir Models
+      ```
+    - Place the downloaded model files into the `Models` directory.
+
+4. **Configure GPT API**:
    - Open the `llm_base.py` file.
    - Add your GPT API credentials (API key) in the following section:
      ```python
      api_key = "your_openai_api_key"
      ```
 
-4. **Run the server**:
+5. **Run the server**:
     ```bash
     python server.py
     ```
