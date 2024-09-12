@@ -27,10 +27,10 @@ Follow these steps to install and run the project:
     ```
 
 3. **Configure GPT API**:
-   - Open the `config.py` file.
+   - Open the `llm_base.py` file.
    - Add your GPT API credentials (API key) in the following section:
      ```python
-     gpt_api_key = "your_openai_api_key"
+     api_key = "your_openai_api_key"
      ```
 
 4. **Run the server**:
