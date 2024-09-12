@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tweet Display - {{ project_name }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+<header>
+    <div class="container header-container">
+        <div class="logo">
+            <img src="{{ url_for('static', filename='image.png') }}" alt="Logo">
+        </div>
+    </div>
+</header>
+<main>
+    <div class="container main-container">
+        <div class="left-column">
+            <div class="slider-container">
+                <h2 class="title">| Process Stage</h2>
+                <div class="depth-slider">
+                    <button id="depthDecrease" class="depth-button"><</button>
+                    <input type="range" id="depthRange" name="depthRange" min="0" max="5" value="{{ max_depth }}"
+                       data-initial-value="{{ max_depth }}">
+                    <button id="depthIncrease" class="depth-button">></button>
+                    <span id="depthValue">{{ max_depth }}</span>
+                </div>
+            </div>
+            <div class="Post-Self-container">
+                <button class="Post-button" id="post-by-yourself">Post by Yourself</button>
+            </div>
+            <div id="tweets-container">
+                {% for tweet in tweets %}
+                <div class="tweet-container" data-depth="{{ tweet.depth }}">
+                    <div class="title">{{ tweet.author }}</div>
+                    <div class="tweet-time">{{ tweet.tweet_time }}</div>
+                    <div class="tweet-content">{{ tweet.content }}</div>
+                    <div class="tweet-likes">
+                        <img src="{{ url_for('static', filename='like.png') }}" alt="Likes" class="icon">
+                        <span class="likes-list">{{ tweet.likes|join(', ') }}</span>
+                    </div>
+                    <div class="tweet-comments">
+                        <span class="comments-toggle">
+                            <img src="{{ url_for('static', filename='comments.png') }}" alt="Comments" class="icon">
+                            <span class="comments-count">{{ tweet.total_comments }}</span>
+                        </span>
+                        <div class="comments-list" style="display: none;">
+                            {% for comment in tweet.comments recursive %}
+                            <div class="comment-container" data-depth="{{ comment.depth }}">
+                                <div class="comment">
+                                    <div class="comment-author">{{ comment.author }}</div>
+                                    <div class="comment-time">{{ comment.tweet_time }}</div>
+                                    <div class="comment-content">{{ comment.content }}</div>
+                                    <div class="nested-comments">
+                                        {% for nested_comment in comment.comments %}
+                                        <div class="comment-container" data-depth="{{ nested_comment.depth }}">
+                                            <div class="comment-author">{{ nested_comment.author }}</div>
+                                            <div class="comment-time">{{ nested_comment.tweet_time }}</div>
+                                            <div class="comment-content">{{ nested_comment.content }}</div>
+                                        </div>
+                                        {% endfor %}
+                                    </div>
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="right-column">
+            <div class="section whats-happening">
+                <h2 class="title">| What's happening</h2>
+                <ul id="events-list">
+                    {% for event in events %}
+                    <li class="event-item" data-project-name="{{ loop.index }}">
+                        <span class="event-number">{{ loop.index }}</span>
+                        <div class="event-details">
+                            <span class="event-description">{{ event }}</span>
+                            {% if max_depth == 0 %}
+                            <button class="edit-event">Edit</button>
+                            {% endif %}
+                            <button class="delete-event">Delete</button>
+                        </div>
+                    </li>
+                    {% endfor %}
+                </ul>
+                <input type="text" id="new-event-input" placeholder="New event">
+                <button id="add-event">Add Event</button>
+            </div>
+            <div class="section active-npc">
+                <h2 class="title">| Active NPC</h2>
+                <ul class="npc-list">
+                    {% for agent in agents %}
+                    <li class="npc-item" data-id="{{ agent.id }}" data-name="{{ agent.name }}"
+                        data-occupation="{{ agent.occupation }}" data-experience="{{ agent.experience }}"
+                        data-character="{{ agent.character }}" data-interest="{{ agent.interest }}"
+                        data-online="{{ agent.online }}">
+                        <strong class="npc-name">
+                            <span class="status-dot"
+                                  style="background-color: {{ 'green' if agent.online else 'red' }};"></span>
+                            {{ agent.name }}
+                            <button class="edit-agent">Edit</button>
+                            <label class="switch">
+                                <input type="checkbox" class="toggle-online" {% if agent.online %}checked{% endif %}>
+                                <span class="slider round"></span>
+                            </label>
+                        </strong>
+                        <br>
+                        <div class="npc-section">
+                            <img src="{{ url_for('static', filename='character.png') }}" alt="Character Icon">
+                            <span>{{ agent.character }}</span>
+                            <button class="delete-agent">Delete</button>
+                        </div>
+                    </li>
+                    {% endfor %}
+                </ul>
+                <button id="add-agent">New Agent</button>
+            </div>
+        </div>
+    </div>
+</main>
+<div id="npc-detail-modal" class="modal">
+    <div class="modal-content">
+        <input type="hidden" id="npc-id">
+
+        <div class="detail-modal-item">
+            <img src="{{ url_for('static', filename='occupation-icon.png') }}" alt="Occupation Icon"
+                 class="detail-modal-icon">
+            <div class="detail-modal-text">
+                <strong class="detail-modal-title">Occupation:</strong>
+                <textarea id="npc-occupation" rows="3" class="detail-modal-input"></textarea>
+            </div>
+        </div>
+
+        <div class="detail-modal-item">
+            <img src="{{ url_for('static', filename='character-icon.png') }}" alt="Character Icon"
+                 class="detail-modal-icon">
+            <div class="detail-modal-text">
+                <strong class="detail-modal-title">Character:</strong>
+                <textarea id="npc-character" rows="3" class="detail-modal-input"></textarea>
+            </div>
+        </div>
+
+        <div class="detail-modal-item">
+            <img src="{{ url_for('static', filename='interest-icon.png') }}" alt="Interest Icon"
+                 class="detail-modal-icon">
+            <div class="detail-modal-text">
+                <strong class="detail-modal-title">Interest:</strong>
+                <textarea id="npc-interest" rows="3" class="detail-modal-input"></textarea>
+            </div>
+        </div>
+
+        <div class="detail-modal-item">
+            <img src="{{ url_for('static', filename='experience-icon.png') }}" alt="Experience Icon"
+                 class="detail-modal-icon">
+            <div class="detail-modal-text">
+                <strong class="detail-modal-title">Experience:</strong>
+                <textarea id="npc-experience" rows="3" class="detail-modal-input"></textarea>
+            </div>
+        </div>
+
+        <button id="cancel-edit">Cancel</button>
+        <button id="confirm-edit">Confirm</button>
+    </div>
+</div>
+
+<div id="add-agent-modal" class="modal">
+    <div class="modal-content">
+        <span class="close" id="close-add-agent-modal">&times;</span>
+        <h2>Add New Agent</h2>
+        <p><strong>Name:</strong> <input type="text" id="new-agent-name"></p>
+        <p><strong>Occupation:</strong> <input type="text" id="new-agent-occupation"></p>
+        <p><strong>Experience:</strong> <input type="text" id="new-agent-experience"></p>
+        <p><strong>Character:</strong> <input type="text" id="new-agent-character"></p>
+        <p><strong>Interest:</strong> <input type="text" id="new-agent-interest"></p>
+        <button id="cancel-add-agent">Cancel</button>
+        <button id="confirm-add-agent">Confirm</button>
+    </div>
+</div>
+<div id="simulation-modal" class="modal">
+    <div class="modal-content">
+        <p>Do you want to perform the simulation?</p>
+        <button id="cancel-simulation">Cancel</button>
+        <button id="confirm-simulation">Confirm</button>
+    </div>
+</div>
+<div id="processing-modal" class="modal">
+    <div class="modal-content">
+        <p>Processing, please wait...</p>
+    </div>
+</div>
+<div id="post-modal" class="modal">
+    <div class="modal-content">
+        <span class="close" id="close-post-modal">&times;</span>
+        <h2>Post by Yourself</h2>
+        <p><strong>Author:</strong> <input type="text" id="post-author"></p>
+        <p><strong>Content:</strong> <textarea id="post-content" rows="4"></textarea></p>
+        <button id="cancel-post">Cancel</button>
+        <button id="confirm-post">Confirm</button>
+    </div>
+</div>
+<div id="loading-modal" class="modal">
+    <div class="modal-content">
+        <p>Processing, please wait...</p>
+    </div>
+</div>
+
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
