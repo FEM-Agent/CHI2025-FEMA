@@ -1,0 +1,58 @@
+[
+    {
+        "content": "Feeling sobered by 9/11 discussions, reflecting on its gravity.",
+        "author": "Engineer_Eric",
+        "tweet_time": "2024-01-01 09:04",
+        "likes": [],
+        "hash_id": "fa0adf76be62f1fd55b55750162fa953",
+        "reply_to_hash_id": null,
+        "depth": 1
+    },
+    {
+        "content": "Bruh, world needs real talk, not conspiracy hype. Focusing on legit issues!",
+        "author": "Chef_Charlie",
+        "tweet_time": "2024-01-01 09:07",
+        "likes": [
+            "Engineer_Eric"
+        ],
+        "hash_id": "ec7f8d1643b01186c8094e4044684976",
+        "reply_to_hash_id": null,
+        "depth": 1
+    },
+    {
+        "content": "@Engineer_Eric Pfft. Reflecting on 9/11? How groundbreaking. Maybe try something new. #Sarcasm",
+        "author": "Anarchist_Alex",
+        "tweet_time": "2024-01-01 09:11",
+        "likes": [],
+        "hash_id": "ecb2a43ef5f8f9a9c0a85df16eead1b9",
+        "reply_to_hash_id": "fa0adf76be62f1fd55b55750162fa953",
+        "depth": 1
+    },
+    {
+        "content": "@Chef_Charlie Critiquing history and diverse views is key for awareness. Anti-conspiracy dismissal is naive. Stand with critical thinking.",
+        "author": "Anarchist_Alex",
+        "tweet_time": "2024-01-01 09:15",
+        "likes": [],
+        "hash_id": "42ad516590ae933a68e0a6256d07761f",
+        "reply_to_hash_id": "ec7f8d1643b01186c8094e4044684976",
+        "depth": 1
+    },
+    {
+        "content": "@Chef_Charlie Real talk is great, but lets dive deeper into history.",
+        "author": "Engineer_Eric",
+        "tweet_time": "2024-01-01 09:20",
+        "likes": [],
+        "hash_id": "7417a7c70da3dace37d01fb578b57ac8",
+        "reply_to_hash_id": "ec7f8d1643b01186c8094e4044684976",
+        "depth": 1
+    },
+    {
+        "content": "@Engineer_Eric Why dwell on past grief when urgent global issues persist?",
+        "author": "Chef_Charlie",
+        "tweet_time": "2024-01-01 09:23",
+        "likes": [],
+        "hash_id": "62c4b8458d6d09c09f2d9c5f2b72589c",
+        "reply_to_hash_id": "fa0adf76be62f1fd55b55750162fa953",
+        "depth": 1
+    }
+]

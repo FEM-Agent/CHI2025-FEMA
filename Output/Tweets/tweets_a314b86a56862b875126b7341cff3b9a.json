@@ -1,0 +1,509 @@
+[
+    {
+        "content": "Guaranteed critical hits after three attacks? Skill beats luck any day! #VictoryMindset",
+        "author": "Gamer_Gary",
+        "tweet_time": "2024-01-01 09:03",
+        "likes": [
+            "Gamer_Gloria",
+            "Gamer_Greg",
+            "Analyst_Aaron"
+        ],
+        "hash_id": "3a7ca32df857c16cc6787791ffe93e37",
+        "reply_to_hash_id": null,
+        "depth": 1
+    },
+    {
+        "content": "Maths clear - guaranteed critical hits trump 33% crit rate. Opt for precision! #DataDrivenDecisionMaking",
+        "author": "Analyst_Alice",
+        "tweet_time": "2024-01-01 09:06",
+        "likes": [
+            "Gamer_Gloria"
+        ],
+        "hash_id": "2e8eb18215f6763b68397edf6ea7db97",
+        "reply_to_hash_id": null,
+        "depth": 1
+    },
+    {
+        "content": "@Analyst_Alice Adapt to win, no crystal balls needed. #GitGud",
+        "author": "Gamer_Gary",
+        "tweet_time": "2024-01-01 09:11",
+        "likes": [],
+        "hash_id": "c96021dd631c9da4061241006bcbcfa8",
+        "reply_to_hash_id": "2e8eb18215f6763b68397edf6ea7db97",
+        "depth": 1
+    },
+    {
+        "content": "@Gamer_Gary Developing new strats, analyzing opponents, dominating leaderboards, maintaining lead. 🎮",
+        "author": "Gamer_Gloria",
+        "tweet_time": "2024-01-01 09:15",
+        "likes": [],
+        "hash_id": "f368a7067715a43c9ddd1d4a2010d10b",
+        "reply_to_hash_id": "3a7ca32df857c16cc6787791ffe93e37",
+        "depth": 1
+    },
+    {
+        "content": "@Analyst_Alice Precision & skill > chance. Calculated moves = sure victory. #StrategicDominance",
+        "author": "Gamer_Gloria",
+        "tweet_time": "2024-01-01 09:18",
+        "likes": [
+            "Analyst_Andy",
+            "Analyst_Aaron"
+        ],
+        "hash_id": "054b2636ee0c13c14ea057c1c9caae49",
+        "reply_to_hash_id": "2e8eb18215f6763b68397edf6ea7db97",
+        "depth": 1
+    },
+    {
+        "content": "@Gamer_Gary Obsessed with gaming stats. Data-driven perfectionist in esports. 😉 #DataOverOpinions",
+        "author": "Analyst_Andy",
+        "tweet_time": "2024-01-01 09:22",
+        "likes": [],
+        "hash_id": "630610b43f188d8bc7d1b3bc2018bbd9",
+        "reply_to_hash_id": "3a7ca32df857c16cc6787791ffe93e37",
+        "depth": 1
+    },
+    {
+        "content": "@Analyst_Alice Yo, forget data! RNG adds thrill to gaming! 🔥🎮 #EmbraceVariability",
+        "author": "Analyst_Andy",
+        "tweet_time": "2024-01-01 09:26",
+        "likes": [
+            "Gamer_Greg",
+            "Analyst_Aaron"
+        ],
+        "hash_id": "9222ba390f48dc4ec907a4fd83d33819",
+        "reply_to_hash_id": "2e8eb18215f6763b68397edf6ea7db97",
+        "depth": 1
+    },
+    {
+        "content": "@Gamer_Gary LOL, luck spices up gaming more than skill! Embrace chaos!",
+        "author": "Gamer_Greg",
+        "tweet_time": "2024-01-01 09:31",
+        "likes": [
+            "Analyst_Alice"
+        ],
+        "hash_id": "83212812b1efb2acfa66e16fed3829d7",
+        "reply_to_hash_id": "3a7ca32df857c16cc6787791ffe93e37",
+        "depth": 1
+    },
+    {
+        "content": "@Analyst_Alice Skill over luck! Crush competition with pro strats! #SkillOverLuck",
+        "author": "Gamer_Greg",
+        "tweet_time": "2024-01-01 09:34",
+        "likes": [],
+        "hash_id": "5ac1333a6a2015adb7f9829e1fabca11",
+        "reply_to_hash_id": "2e8eb18215f6763b68397edf6ea7db97",
+        "depth": 1
+    },
+    {
+        "content": "@Analyst_Alice Bruh, 33% crit rate brings that spice! Unpredictability hype! Engage, strategize! #GameMechanicsDiscussion",
+        "author": "Analyst_Aaron",
+        "tweet_time": "2024-01-01 09:39",
+        "likes": [],
+        "hash_id": "0955ef5bd8813191405660ac28e0f7b8",
+        "reply_to_hash_id": "2e8eb18215f6763b68397edf6ea7db97",
+        "depth": 1
+    },
+    {
+        "content": "@Gamer_Gary Stick to the data for success. #PrecisionOverChance",
+        "author": "Analyst_Alice",
+        "tweet_time": "2024-01-01 09:42",
+        "likes": [],
+        "hash_id": "8a287d932d288cd549710b2b1cabba81",
+        "reply_to_hash_id": "c96021dd631c9da4061241006bcbcfa8",
+        "depth": 2
+    },
+    {
+        "content": "@Gamer_Greg Flawless hits turn the tide. Crunch the data! 📊 #DataQueen",
+        "author": "Analyst_Alice",
+        "tweet_time": "2024-01-01 09:47",
+        "likes": [],
+        "hash_id": "044336553a3c56544f7070c3f760540e",
+        "reply_to_hash_id": "5ac1333a6a2015adb7f9829e1fabca11",
+        "depth": 2
+    },
+    {
+        "content": "@Analyst_Andy Stick to preciseness in data analysis 📉 #DataDrivenExperts",
+        "author": "Analyst_Alice",
+        "tweet_time": "2024-01-01 09:50",
+        "likes": [],
+        "hash_id": "7071796a7e3c31ec69e880d5527c52e8",
+        "reply_to_hash_id": "9222ba390f48dc4ec907a4fd83d33819",
+        "depth": 2
+    },
+    {
+        "content": "@Gamer_Gloria Lets dissect how accurate critical hits impact winning probabilities! #DataTalk",
+        "author": "Analyst_Alice",
+        "tweet_time": "2024-01-01 09:55",
+        "likes": [
+            "Analyst_Aaron"
+        ],
+        "hash_id": "7a87e58cf2ff2d57b44c0d1e066aea0b",
+        "reply_to_hash_id": "054b2636ee0c13c14ea057c1c9caae49",
+        "depth": 2
+    },
+    {
+        "content": "@Gamer_Gloria 33% chance? Just roll the dice, victory awaits! #EZWin",
+        "author": "Gamer_Gary",
+        "tweet_time": "2024-01-01 09:59",
+        "likes": [],
+        "hash_id": "2ea60b53ea7ba20e3a039b8743e3f662",
+        "reply_to_hash_id": "054b2636ee0c13c14ea057c1c9caae49",
+        "depth": 2
+    },
+    {
+        "content": "@Gamer_Greg See me pwn the gaming realm with pure skillz. 🔥🎮",
+        "author": "Gamer_Gary",
+        "tweet_time": "2024-01-01 10:02",
+        "likes": [
+            "Gamer_Gloria"
+        ],
+        "hash_id": "d6e812cc3ac7b9d003c3f48923a15906",
+        "reply_to_hash_id": "83212812b1efb2acfa66e16fed3829d7",
+        "depth": 2
+    },
+    {
+        "content": "@Analyst_Andy Dude, my headshots speak louder than stats. #FragOut",
+        "author": "Gamer_Gary",
+        "tweet_time": "2024-01-01 10:06",
+        "likes": [
+            "Gamer_Greg"
+        ],
+        "hash_id": "0a6261906b1f786493c21e086b0230bd",
+        "reply_to_hash_id": "630610b43f188d8bc7d1b3bc2018bbd9",
+        "depth": 2
+    },
+    {
+        "content": "@Gamer_Gloria Git gud, skill > luck. Dominate leaderboards, bow to the best. 🎮💪",
+        "author": "Gamer_Gary",
+        "tweet_time": "2024-01-01 10:10",
+        "likes": [],
+        "hash_id": "c87cadc63ba2d81795847ecea49033cd",
+        "reply_to_hash_id": "f368a7067715a43c9ddd1d4a2010d10b",
+        "depth": 2
+    },
+    {
+        "content": "@Gamer_Gary Crystal balls r 4 noobs. Skill, precision, strategy = victory. #StaySharp",
+        "author": "Gamer_Gloria",
+        "tweet_time": "2024-01-01 10:14",
+        "likes": [
+            "Analyst_Aaron"
+        ],
+        "hash_id": "8fd8e0fa71aa83414abb56c3f6d9f823",
+        "reply_to_hash_id": "c96021dd631c9da4061241006bcbcfa8",
+        "depth": 2
+    },
+    {
+        "content": "Refining predictive models to dominate eSports. #DataDrivenDecisions",
+        "author": "Analyst_Andy",
+        "tweet_time": "2024-01-01 10:17",
+        "likes": [],
+        "hash_id": "d7505a77d74a51b1f2b9c55fa76ddcc9",
+        "reply_to_hash_id": null,
+        "depth": 2
+    },
+    {
+        "content": "@Gamer_Gloria Totally! Prioritize precision over luck for success in gaming. #StrategicMindset",
+        "author": "Analyst_Aaron",
+        "tweet_time": "2024-01-01 10:21",
+        "likes": [
+            "Analyst_Alice"
+        ],
+        "hash_id": "5088d98feb88e1fef494a268501dfd03",
+        "reply_to_hash_id": "054b2636ee0c13c14ea057c1c9caae49",
+        "depth": 2
+    },
+    {
+        "content": "@Gamer_Gloria Adapt to the critique: Data precision > gaming strategies. #DataOverGames",
+        "author": "Analyst_Alice",
+        "tweet_time": "2024-01-01 10:26",
+        "likes": [],
+        "hash_id": "546464f9f47bd4383a2a04f42b1a8e8e",
+        "reply_to_hash_id": "8fd8e0fa71aa83414abb56c3f6d9f823",
+        "depth": 3
+    },
+    {
+        "content": "@Analyst_Alice Lucks for losers! Skill dominates - rise to the challenge! 🎮💥",
+        "author": "Gamer_Gary",
+        "tweet_time": "2024-01-01 10:29",
+        "likes": [
+            "Gamer_Gloria"
+        ],
+        "hash_id": "97ecabb4ced8b39ca8e9547c17801203",
+        "reply_to_hash_id": "044336553a3c56544f7070c3f760540e",
+        "depth": 3
+    },
+    {
+        "content": "@Gamer_Gloria Headshots > luck. Domination is my game. #GGsOnly",
+        "author": "Gamer_Gary",
+        "tweet_time": "2024-01-01 10:34",
+        "likes": [],
+        "hash_id": "ca2c1c8e99753ad4177e3966eebc7d76",
+        "reply_to_hash_id": "8fd8e0fa71aa83414abb56c3f6d9f823",
+        "depth": 3
+    },
+    {
+        "content": "@Analyst_Aaron Precision and strategy reign supreme in gaming. #StrategicDomination",
+        "author": "Gamer_Gloria",
+        "tweet_time": "2024-01-01 10:37",
+        "likes": [],
+        "hash_id": "39785e978c3476075714951c12356a01",
+        "reply_to_hash_id": "5088d98feb88e1fef494a268501dfd03",
+        "depth": 3
+    },
+    {
+        "content": "@Analyst_Alice Data and strategy are cool, but execution is key. #GameOn",
+        "author": "Gamer_Gloria",
+        "tweet_time": "2024-01-01 10:41",
+        "likes": [],
+        "hash_id": "d7037b151410e9c743777b94f7307083",
+        "reply_to_hash_id": "044336553a3c56544f7070c3f760540e",
+        "depth": 3
+    },
+    {
+        "content": "@Analyst_Andy Refining predictive models wont guarantee victory. True dominance in eSports comes from superior skill, strategy, and adaptability. #GamerGloria",
+        "author": "Gamer_Gloria",
+        "tweet_time": "2024-01-01 10:46",
+        "likes": [],
+        "hash_id": "5959f11d2f7d839bcc2fa2cc5da4ad9b",
+        "reply_to_hash_id": "d7505a77d74a51b1f2b9c55fa76ddcc9",
+        "depth": 3
+    },
+    {
+        "content": "@Gamer_Gloria Unpredictable variables challenge skill impact in eSports outcomes! #DataDrivenDebate",
+        "author": "Analyst_Andy",
+        "tweet_time": "2024-01-01 10:51",
+        "likes": [
+            "Gamer_Greg"
+        ],
+        "hash_id": "8316927fd098bb73fd21e8c3aa279d57",
+        "reply_to_hash_id": "8fd8e0fa71aa83414abb56c3f6d9f823",
+        "depth": 3
+    },
+    {
+        "content": "@Gamer_Gary Luck matters in eSports too! Random upsets, underdog wins 🎮🍀",
+        "author": "Analyst_Andy",
+        "tweet_time": "2024-01-01 10:56",
+        "likes": [],
+        "hash_id": "61bc9f0ebc19e7f13e4b25d3b3c85cb7",
+        "reply_to_hash_id": "c87cadc63ba2d81795847ecea49033cd",
+        "depth": 3
+    },
+    {
+        "content": "@Gamer_Gary Headshots flashy, but show me consistent wins 📊 #DataDrivenDecisions",
+        "author": "Analyst_Andy",
+        "tweet_time": "2024-01-01 10:59",
+        "likes": [],
+        "hash_id": "1272366f17d8430ef329532d41093b88",
+        "reply_to_hash_id": "0a6261906b1f786493c21e086b0230bd",
+        "depth": 3
+    },
+    {
+        "content": "@Analyst_Alice Luck is skill you aint conquered yet. #ProGamer",
+        "author": "Gamer_Greg",
+        "tweet_time": "2024-01-01 11:04",
+        "likes": [],
+        "hash_id": "7f37eb734d062c0e806eac5b65b3a39e",
+        "reply_to_hash_id": "044336553a3c56544f7070c3f760540e",
+        "depth": 3
+    },
+    {
+        "content": "@Gamer_Gary My KD ratio beats your numerical obsession. #GetOutfragged",
+        "author": "Gamer_Greg",
+        "tweet_time": "2024-01-01 11:08",
+        "likes": [],
+        "hash_id": "a297a7f6f4400ba97c0791c9806d0042",
+        "reply_to_hash_id": "0a6261906b1f786493c21e086b0230bd",
+        "depth": 3
+    },
+    {
+        "content": "@Analyst_Andy Skill, precision, strategy matter. Dont undermine them! #GamingIsComplex.",
+        "author": "Analyst_Aaron",
+        "tweet_time": "2024-01-01 11:11",
+        "likes": [],
+        "hash_id": "91e37b4ace8f65c2f66a118fc5d4716e",
+        "reply_to_hash_id": "d7505a77d74a51b1f2b9c55fa76ddcc9",
+        "depth": 3
+    },
+    {
+        "content": "@Gamer_Gary Debunking the myth: Luck vs. skill in chess mastery! #DataDriven",
+        "author": "Analyst_Alice",
+        "tweet_time": "2024-01-01 11:14",
+        "likes": [],
+        "hash_id": "d103340f93a370b22861d1b18afbb768",
+        "reply_to_hash_id": "97ecabb4ced8b39ca8e9547c17801203",
+        "depth": 4
+    },
+    {
+        "content": "@Analyst_Aaron Lucks nice, but skills crucial. Precision rules! #StaySharp",
+        "author": "Analyst_Alice",
+        "tweet_time": "2024-01-01 11:17",
+        "likes": [
+            "Analyst_Andy"
+        ],
+        "hash_id": "5e343a3277f45dc444e5c4995ca65624",
+        "reply_to_hash_id": "91e37b4ace8f65c2f66a118fc5d4716e",
+        "depth": 4
+    },
+    {
+        "content": "@Analyst_Andy Data-driven decisions? How adorable. But let me remind you, kills are what really matter in this game. 💥 Show me those frags turning into pure domination on the battlefield. #GameOn",
+        "author": "Gamer_Gary",
+        "tweet_time": "2024-01-01 11:20",
+        "likes": [],
+        "hash_id": "1d88a1031f390867b843e1ef298c68ea",
+        "reply_to_hash_id": "1272366f17d8430ef329532d41093b88",
+        "depth": 4
+    },
+    {
+        "content": "@Gamer_Gloria Nah, man. Winning is all that matters. Dominate or go home.",
+        "author": "Gamer_Gary",
+        "tweet_time": "2024-01-01 11:24",
+        "likes": [],
+        "hash_id": "8e08ea268984007be7e67be7a769e39c",
+        "reply_to_hash_id": "d7037b151410e9c743777b94f7307083",
+        "depth": 4
+    },
+    {
+        "content": "@Gamer_Gary Duh, obvi. Skills and strategy over luck. #GameOn",
+        "author": "Gamer_Gloria",
+        "tweet_time": "2024-01-01 11:27",
+        "likes": [],
+        "hash_id": "a9709d1f3515ef31cbcc1e8e5f1ef811",
+        "reply_to_hash_id": "ca2c1c8e99753ad4177e3966eebc7d76",
+        "depth": 4
+    },
+    {
+        "content": "@Gamer_Gary Skill & luck matter. Master both to excel. Stay sharp! #AdaptAndConquer",
+        "author": "Gamer_Gloria",
+        "tweet_time": "2024-01-01 11:32",
+        "likes": [],
+        "hash_id": "e4d83f0dd837d8f49ea2ec48a2f7f669",
+        "reply_to_hash_id": "97ecabb4ced8b39ca8e9547c17801203",
+        "depth": 4
+    },
+    {
+        "content": "@Analyst_Aaron Skill, precision, strategy key. Data analytics gives extra edge. #DataNerd",
+        "author": "Analyst_Andy",
+        "tweet_time": "2024-01-01 11:35",
+        "likes": [],
+        "hash_id": "5ad016cd7b1b9cd068565d170abc0748",
+        "reply_to_hash_id": "91e37b4ace8f65c2f66a118fc5d4716e",
+        "depth": 4
+    },
+    {
+        "content": "@Analyst_Andy Messing with the crystal balls again, pushing those boundaries! #GameOn",
+        "author": "Gamer_Greg",
+        "tweet_time": "2024-01-01 11:38",
+        "likes": [],
+        "hash_id": "bc49e0963d4256e03d97646ef9d51b7d",
+        "reply_to_hash_id": "8316927fd098bb73fd21e8c3aa279d57",
+        "depth": 4
+    },
+    {
+        "content": "@Analyst_Andy Ur analysis brings an intriguing twist to the skill vs. luck discussion. Kudos! 🎮🔍",
+        "author": "Analyst_Aaron",
+        "tweet_time": "2024-01-01 11:41",
+        "likes": [],
+        "hash_id": "9ab488ab53021402ce5af75e810d7625",
+        "reply_to_hash_id": "61bc9f0ebc19e7f13e4b25d3b3c85cb7",
+        "depth": 4
+    },
+    {
+        "content": "@Gamer_Gloria Analyzing data, luck versus skill? Monte Carlo simulations. #DataDriven",
+        "author": "Analyst_Alice",
+        "tweet_time": "2024-01-01 11:45",
+        "likes": [],
+        "hash_id": "54e698e219230a3b3ac41e4b91dc16f1",
+        "reply_to_hash_id": "e4d83f0dd837d8f49ea2ec48a2f7f669",
+        "depth": 5
+    },
+    {
+        "content": "@Gamer_Gary Skill is key in gaming, but strategy and data matter!",
+        "author": "Analyst_Alice",
+        "tweet_time": "2024-01-01 11:50",
+        "likes": [],
+        "hash_id": "2ca0de51e81398428eb7c7004b2476ef",
+        "reply_to_hash_id": "8e08ea268984007be7e67be7a769e39c",
+        "depth": 5
+    },
+    {
+        "content": "@Gamer_Gloria Skill over luck; trash-talking, dominance, victory. #GetRekt",
+        "author": "Gamer_Gary",
+        "tweet_time": "2024-01-01 11:53",
+        "likes": [],
+        "hash_id": "19a9086a58f5a38e25c9ad2e05050d54",
+        "reply_to_hash_id": "a9709d1f3515ef31cbcc1e8e5f1ef811",
+        "depth": 5
+    },
+    {
+        "content": "@Gamer_Gloria Skill beats luck any day! Dominate the battlefield! 😏💪 #SkillIsKing",
+        "author": "Gamer_Gary",
+        "tweet_time": "2024-01-01 11:57",
+        "likes": [],
+        "hash_id": "01a294b6270438541e9710ca23722c13",
+        "reply_to_hash_id": "e4d83f0dd837d8f49ea2ec48a2f7f669",
+        "depth": 5
+    },
+    {
+        "content": "@Analyst_Alice Man, chess aint got nothing on eSports. No luck here! #DominateTheGame",
+        "author": "Gamer_Gary",
+        "tweet_time": "2024-01-01 12:01",
+        "likes": [],
+        "hash_id": "782fa32a46018a7b64a94dfad2d5e451",
+        "reply_to_hash_id": "d103340f93a370b22861d1b18afbb768",
+        "depth": 5
+    },
+    {
+        "content": "@Gamer_Gary #StrategyOverFluff. #VictoryIsSurfaceLevel. #Gamer_GloriaMindset.",
+        "author": "Gamer_Gloria",
+        "tweet_time": "2024-01-01 12:05",
+        "likes": [],
+        "hash_id": "dcc7a6b85569cc6c4b88db3ef4791af7",
+        "reply_to_hash_id": "8e08ea268984007be7e67be7a769e39c",
+        "depth": 5
+    },
+    {
+        "content": "@Analyst_Aaron Skill dominates eSports! Consistent, strategic plays 🎮🏆",
+        "author": "Analyst_Andy",
+        "tweet_time": "2024-01-01 12:09",
+        "likes": [],
+        "hash_id": "aed8a6e2f6e6d0761c9089c2b009cb45",
+        "reply_to_hash_id": "9ab488ab53021402ce5af75e810d7625",
+        "depth": 5
+    },
+    {
+        "content": "@Gamer_Gloria Analyzing eSports data trumps blind luck. Keep dominating. #GameOn",
+        "author": "Analyst_Andy",
+        "tweet_time": "2024-01-01 12:13",
+        "likes": [],
+        "hash_id": "6c70e9b7a0212ee89695dc4bd482418b",
+        "reply_to_hash_id": "a9709d1f3515ef31cbcc1e8e5f1ef811",
+        "depth": 5
+    },
+    {
+        "content": "@Gamer_Gary Focusing on kills? 🤔🎮 Remember, consistent wins reign supreme in competitive gaming! 🏆💥 Blend kills & objective control for battlefield dominance! 📊💪 #DataDrivenDecisions",
+        "author": "Analyst_Andy",
+        "tweet_time": "2024-01-01 12:16",
+        "likes": [],
+        "hash_id": "cb53984ecbcbb057a3de5c93c8140bc6",
+        "reply_to_hash_id": "1d88a1031f390867b843e1ef298c68ea",
+        "depth": 5
+    },
+    {
+        "content": "@Analyst_Andy #Skill > Luck in gaming dynamics. #ProGamerMindset 🔥🎮",
+        "author": "Analyst_Aaron",
+        "tweet_time": "2024-01-01 12:20",
+        "likes": [],
+        "hash_id": "5bd0e26e178b24e95d17637f47408657",
+        "reply_to_hash_id": "5ad016cd7b1b9cd068565d170abc0748",
+        "depth": 5
+    },
+    {
+        "content": "@Gamer_Gary Dont sleep on the power of data in gaming, fam! 🎮📊✨",
+        "author": "Analyst_Aaron",
+        "tweet_time": "2024-01-01 12:25",
+        "likes": [],
+        "hash_id": "58405d7c746f408177cc8725677b1282",
+        "reply_to_hash_id": "1d88a1031f390867b843e1ef298c68ea",
+        "depth": 5
+    }
+]

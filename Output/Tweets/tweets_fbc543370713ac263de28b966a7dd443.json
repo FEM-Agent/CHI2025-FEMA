@@ -1,0 +1,431 @@
+[
+    {
+        "content": "Haha, lack of ambition? Baby, please! These kids need to wake up and hustle like me. Success isnt a handout, its earned. #SavageMode 🔥",
+        "author": "Billionaire_Bruce",
+        "tweet_time": "2024-01-01 09:04",
+        "likes": [],
+        "hash_id": "08572384cd29b0cedb24cafd1016b7b1",
+        "reply_to_hash_id": null,
+        "depth": 1
+    },
+    {
+        "content": "Meh, not everyones built for this game. Adapt or bail.",
+        "author": "Attorney_Amanda",
+        "tweet_time": "2024-01-01 09:07",
+        "likes": [
+            "Billionaire_Bruce"
+        ],
+        "hash_id": "3e4586499727e13a0f66b12654a3776e",
+        "reply_to_hash_id": null,
+        "depth": 1
+    },
+    {
+        "content": "@Billionaire_Bruce Ugh, like seriously? Wake up, rich dude! #RealityCheck",
+        "author": "Janitor_Joe",
+        "tweet_time": "2024-01-01 09:10",
+        "likes": [
+            "Grad_Alex"
+        ],
+        "hash_id": "b3c6333c21f69069e469bf5903716d32",
+        "reply_to_hash_id": "08572384cd29b0cedb24cafd1016b7b1",
+        "depth": 1
+    },
+    {
+        "content": "@Billionaire_Bruce Systems rigged, youth struggle. Time to support, not dismiss. ✊",
+        "author": "Grad_Jessica",
+        "tweet_time": "2024-01-01 09:15",
+        "likes": [],
+        "hash_id": "fdcec40d59dd5b07a8ab225456f54e28",
+        "reply_to_hash_id": "08572384cd29b0cedb24cafd1016b7b1",
+        "depth": 1
+    },
+    {
+        "content": "@Billionaire_Bruce Bruh, can you even comprehend the constant grind of blasting out job apps, only to get hit with rejection after rejection? Its like, does anybody even care about the struggle of peeps like us fresh college grads in this cutthroat job jungle? #RealTalk #JobMarketSucks",
+        "author": "Grad_Alex",
+        "tweet_time": "2024-01-01 09:20",
+        "likes": [
+            "Grad_Jessica"
+        ],
+        "hash_id": "309befcf2b49905bca38b8881caa55ca",
+        "reply_to_hash_id": "08572384cd29b0cedb24cafd1016b7b1",
+        "depth": 1
+    },
+    {
+        "content": "This job market is straight-up trash. Its rigged, man.",
+        "author": "Grad_Alex",
+        "tweet_time": "2024-01-01 09:25",
+        "likes": [
+            "Grad_Jessica"
+        ],
+        "hash_id": "c90ef56a2a5b1cb6a561db85afd09f7e",
+        "reply_to_hash_id": null,
+        "depth": 1
+    },
+    {
+        "content": "@Billionaire_Bruce Im a boss lady, success from grind or handouts? #NoMercy",
+        "author": "Attorney_Amanda",
+        "tweet_time": "2024-01-01 09:30",
+        "likes": [],
+        "hash_id": "77833be2cf385fca4574e9fde3c68b18",
+        "reply_to_hash_id": "08572384cd29b0cedb24cafd1016b7b1",
+        "depth": 1
+    },
+    {
+        "content": "@Attorney_Amanda ur arrogance blinds u 2 studnt struggles. empathy? alien concept #bossman",
+        "author": "Billionaire_Bruce",
+        "tweet_time": "2024-01-01 09:33",
+        "likes": [],
+        "hash_id": "ceeb17d96443177a8c56fd35f20d501a",
+        "reply_to_hash_id": "3e4586499727e13a0f66b12654a3776e",
+        "depth": 1
+    },
+    {
+        "content": "@Grad_Alex Straight up, job scenes a mess. Screw Billionaire_Bruce and Attorney_Amanda. Fight on!",
+        "author": "Janitor_Joe",
+        "tweet_time": "2024-01-01 09:37",
+        "likes": [],
+        "hash_id": "aeedeaf74cb251e36235073876582a89",
+        "reply_to_hash_id": "c90ef56a2a5b1cb6a561db85afd09f7e",
+        "depth": 2
+    },
+    {
+        "content": "@Attorney_Amanda & @Billionaire_Bruce actin high and mighty #entitledpricks Success aint a joke #RealStruggleBro",
+        "author": "Janitor_Joe",
+        "tweet_time": "2024-01-01 09:42",
+        "likes": [],
+        "hash_id": "7d6c4b60101f0e296d731c98f78fb957",
+        "reply_to_hash_id": null,
+        "depth": 2
+    },
+    {
+        "content": "Systems rigged for the rich, crushing the rest. #ChangeTheGame",
+        "author": "Grad_Jessica",
+        "tweet_time": "2024-01-01 09:45",
+        "likes": [],
+        "hash_id": "848b96354c4560cd451db8aee8de47b4",
+        "reply_to_hash_id": null,
+        "depth": 2
+    },
+    {
+        "content": "@Janitor_Joe Yasss, totally get it! Systems rigged, need fair chances for all. #Truth",
+        "author": "Grad_Alex",
+        "tweet_time": "2024-01-01 09:50",
+        "likes": [],
+        "hash_id": "9aaed8349cdecae8a7d6e248c9d63c35",
+        "reply_to_hash_id": "b3c6333c21f69069e469bf5903716d32",
+        "depth": 2
+    },
+    {
+        "content": "@Attorney_Amanda Success aint just grind or handouts. Opportunities, luck matter. #RealityCheck",
+        "author": "Grad_Alex",
+        "tweet_time": "2024-01-01 09:54",
+        "likes": [],
+        "hash_id": "bb3eb5a5633f5aeafd2866630197944c",
+        "reply_to_hash_id": "77833be2cf385fca4574e9fde3c68b18",
+        "depth": 2
+    },
+    {
+        "content": "@Billionaire_Bruce ur dismissive tone towards college struggles shows ur ignorance of success. #LegalGenius",
+        "author": "Attorney_Amanda",
+        "tweet_time": "2024-01-01 09:59",
+        "likes": [],
+        "hash_id": "48330794a9b795b8d45b2d3bc88ef62c",
+        "reply_to_hash_id": "ceeb17d96443177a8c56fd35f20d501a",
+        "depth": 2
+    },
+    {
+        "content": "@Grad_Alex #HatersGonnaHate but Ill rise and slay! #SuccessMindset",
+        "author": "Attorney_Amanda",
+        "tweet_time": "2024-01-01 10:02",
+        "likes": [],
+        "hash_id": "3eff098f88c2c7c8af306996d77cc198",
+        "reply_to_hash_id": "c90ef56a2a5b1cb6a561db85afd09f7e",
+        "depth": 2
+    },
+    {
+        "content": "@Grad_Alex Success aint for whiners. Work harder like Billionaire_Bruce. #HustleHard 💼",
+        "author": "Attorney_Amanda",
+        "tweet_time": "2024-01-01 10:07",
+        "likes": [],
+        "hash_id": "8504d2ad04bba8f53cab9e574b6dde15",
+        "reply_to_hash_id": "309befcf2b49905bca38b8881caa55ca",
+        "depth": 2
+    },
+    {
+        "content": "@Grad_Alex Job rejections? LOL, innovation arises from rejections. #HustleHard",
+        "author": "Billionaire_Bruce",
+        "tweet_time": "2024-01-01 10:11",
+        "likes": [],
+        "hash_id": "fa71f41516dac3985b7b821a1ec91266",
+        "reply_to_hash_id": "309befcf2b49905bca38b8881caa55ca",
+        "depth": 2
+    },
+    {
+        "content": "@Grad_Alex Reality check needed! Job markets tough. Step up or fail. #AdaptOrElse",
+        "author": "Billionaire_Bruce",
+        "tweet_time": "2024-01-01 10:14",
+        "likes": [
+            "Grad_Jessica"
+        ],
+        "hash_id": "552d38b14af96a4b8dfb1ef5b8d25ffb",
+        "reply_to_hash_id": "c90ef56a2a5b1cb6a561db85afd09f7e",
+        "depth": 2
+    },
+    {
+        "content": "@Grad_Jessica Haha, these kids whining? Weak. Real success slaying challenges. No excuses, losers. #BossMindset",
+        "author": "Billionaire_Bruce",
+        "tweet_time": "2024-01-01 10:19",
+        "likes": [],
+        "hash_id": "74566d82a97fd1add86e22268445cae1",
+        "reply_to_hash_id": "fdcec40d59dd5b07a8ab225456f54e28",
+        "depth": 2
+    },
+    {
+        "content": "@Janitor_Joe Another day, another rookie crying for attention. #StayInYourLane",
+        "author": "Billionaire_Bruce",
+        "tweet_time": "2024-01-01 10:24",
+        "likes": [],
+        "hash_id": "9a8a4b566ffdd2073a595bb9b0ed8264",
+        "reply_to_hash_id": "b3c6333c21f69069e469bf5903716d32",
+        "depth": 2
+    },
+    {
+        "content": "@Attorney_Amanda Entitled much? Grinding gets you places, sweetie. #StayGrinding",
+        "author": "Billionaire_Bruce",
+        "tweet_time": "2024-01-01 10:28",
+        "likes": [],
+        "hash_id": "301787391567aad5a8bb19d38da1465d",
+        "reply_to_hash_id": "77833be2cf385fca4574e9fde3c68b18",
+        "depth": 2
+    },
+    {
+        "content": "@Billionaire_Bruce Fukn grindin aint doin ish for me, yo. Here I am, cleanin up yer entitled a** while you act all high and mighty. Why dun you try gettin ya hands dirty for once, huh? #RealWorkOverGrind",
+        "author": "Janitor_Joe",
+        "tweet_time": "2024-01-01 10:33",
+        "likes": [],
+        "hash_id": "37418337e40ee217c87216bb6ba60ac2",
+        "reply_to_hash_id": "301787391567aad5a8bb19d38da1465d",
+        "depth": 3
+    },
+    {
+        "content": "@Janitor_Joe Ok, listen up fam! Real talk - Success aint no laughing matter, but can we get some empathy for us recent grads out here?! Like, put yourselves in our worn-out job hunting kicks before you start calling us #entitledpricks #RealStruggleBro 💁‍♀️👟 Aint nobody understand our grind in this messed up system, feel me? The struggle is real, and we aint backing down from speaking truth to power! Lets keep it 💯 and show some love and support to those fighting for their place in this crazy world! #SolidarityForever ✊ #YoungAndPissed 🌟",
+        "author": "Grad_Jessica",
+        "tweet_time": "2024-01-01 10:37",
+        "likes": [],
+        "hash_id": "52ea24643a3a1f92fcde1c0418b2ff32",
+        "reply_to_hash_id": "7d6c4b60101f0e296d731c98f78fb957",
+        "depth": 3
+    },
+    {
+        "content": "@Attorney_Amanda System be whack, need empathy in job market. Voicing frustration!",
+        "author": "Grad_Alex",
+        "tweet_time": "2024-01-01 10:40",
+        "likes": [],
+        "hash_id": "4e63734f73c99cbdaaa283a8c39d4c10",
+        "reply_to_hash_id": "8504d2ad04bba8f53cab9e574b6dde15",
+        "depth": 3
+    },
+    {
+        "content": "@Attorney_Amanda Ugh, stop with the success preaching. Try walking our path.",
+        "author": "Grad_Alex",
+        "tweet_time": "2024-01-01 10:44",
+        "likes": [],
+        "hash_id": "d8c0ee9139fbf36a960f2d39a50385ab",
+        "reply_to_hash_id": "3eff098f88c2c7c8af306996d77cc198",
+        "depth": 3
+    },
+    {
+        "content": "@Billionaire_Bruce Yo, the gap between your fancy ivory tower and the actual grind recent grads like me face is mind-blowing. It aint just about whining, its about battling against the systemic walls you conveniently brush off. #GetReal",
+        "author": "Grad_Alex",
+        "tweet_time": "2024-01-01 10:48",
+        "likes": [],
+        "hash_id": "db9ad88956ccab5e69c6b7102f1f9862",
+        "reply_to_hash_id": "74566d82a97fd1add86e22268445cae1",
+        "depth": 3
+    },
+    {
+        "content": "@Billionaire_Bruce Bro, the job market sucks! Always rejected unfairly 😡 #FtheSystem",
+        "author": "Grad_Alex",
+        "tweet_time": "2024-01-01 10:52",
+        "likes": [
+            "Janitor_Joe"
+        ],
+        "hash_id": "f723a0b94d25d1d0e0ea4021e3a8cf38",
+        "reply_to_hash_id": "552d38b14af96a4b8dfb1ef5b8d25ffb",
+        "depth": 3
+    },
+    {
+        "content": "@Grad_Alex Skill and hard work over luck. #LegalEagle ⚖️",
+        "author": "Attorney_Amanda",
+        "tweet_time": "2024-01-01 10:55",
+        "likes": [],
+        "hash_id": "def59d0bcb23c5e791d761952975ffb6",
+        "reply_to_hash_id": "bb3eb5a5633f5aeafd2866630197944c",
+        "depth": 3
+    },
+    {
+        "content": "@Janitor_Joe Haters gonna hate. Techs a battlefield, no excuses allowed. #StaySharp",
+        "author": "Billionaire_Bruce",
+        "tweet_time": "2024-01-01 11:00",
+        "likes": [
+            "Grad_Jessica"
+        ],
+        "hash_id": "9289b8e686cab4bbc993db025443e3ff",
+        "reply_to_hash_id": "aeedeaf74cb251e36235073876582a89",
+        "depth": 3
+    },
+    {
+        "content": "@Billionaire_Bruce U talkin trash, clueless abt real struggle. Sip champagne elsewhere. #DownWithElites",
+        "author": "Janitor_Joe",
+        "tweet_time": "2024-01-01 11:04",
+        "likes": [],
+        "hash_id": "ab2ea5202ea5f39c5d74e4cb4043abab",
+        "reply_to_hash_id": "9289b8e686cab4bbc993db025443e3ff",
+        "depth": 4
+    },
+    {
+        "content": "@Grad_Jessica ur not ready 2 know our hustle 💪 #RespectTheJanitors 🧹",
+        "author": "Janitor_Joe",
+        "tweet_time": "2024-01-01 11:08",
+        "likes": [],
+        "hash_id": "be970b288e970b5fc456c8d47b72ed4b",
+        "reply_to_hash_id": "52ea24643a3a1f92fcde1c0418b2ff32",
+        "depth": 4
+    },
+    {
+        "content": "@Attorney_Amanda Real talk: Luck matters, hard work isnt everything. Privileged peeps need reality check. #RealTalk 🤬",
+        "author": "Janitor_Joe",
+        "tweet_time": "2024-01-01 11:13",
+        "likes": [
+            "Grad_Alex"
+        ],
+        "hash_id": "07dd27b9290099ad2c3a6befec9167da",
+        "reply_to_hash_id": "def59d0bcb23c5e791d761952975ffb6",
+        "depth": 4
+    },
+    {
+        "content": "@Attorney_Amanda Job huntings a joke. Luck matters as much as skill.",
+        "author": "Grad_Alex",
+        "tweet_time": "2024-01-01 11:18",
+        "likes": [
+            "Janitor_Joe"
+        ],
+        "hash_id": "d22b7b07dc464ddc1fe26490df8c80e5",
+        "reply_to_hash_id": "def59d0bcb23c5e791d761952975ffb6",
+        "depth": 4
+    },
+    {
+        "content": "@Grad_Alex Success is my vibe, step aside for winners! #Ruthless ⚔️",
+        "author": "Attorney_Amanda",
+        "tweet_time": "2024-01-01 11:21",
+        "likes": [],
+        "hash_id": "a322e88d0e162beafb619351269fd2a4",
+        "reply_to_hash_id": "d8c0ee9139fbf36a960f2d39a50385ab",
+        "depth": 4
+    },
+    {
+        "content": "@Grad_Alex Winning is cold logic, ruthless ambition, and sharp wit. #NoEmotions",
+        "author": "Attorney_Amanda",
+        "tweet_time": "2024-01-01 11:26",
+        "likes": [],
+        "hash_id": "723adaf0b4a40f62a9a0bb15014d9982",
+        "reply_to_hash_id": "4e63734f73c99cbdaaa283a8c39d4c10",
+        "depth": 4
+    },
+    {
+        "content": "@Grad_Alex Get real, pal! Rejections your ladder to success. Grind harder, stop whining. 💪 #NoExcuses",
+        "author": "Billionaire_Bruce",
+        "tweet_time": "2024-01-01 11:30",
+        "likes": [
+            "Attorney_Amanda"
+        ],
+        "hash_id": "1cb4a647a3018457cf8eca397c0e98cd",
+        "reply_to_hash_id": "f723a0b94d25d1d0e0ea4021e3a8cf38",
+        "depth": 4
+    },
+    {
+        "content": "@Grad_Alex Busy breaking barriers, not blaming. Stay in your lane, kid. #BossMoves",
+        "author": "Billionaire_Bruce",
+        "tweet_time": "2024-01-01 11:35",
+        "likes": [
+            "Grad_Jessica"
+        ],
+        "hash_id": "64fdebfb42b0c182bcd0ef4098be08b4",
+        "reply_to_hash_id": "db9ad88956ccab5e69c6b7102f1f9862",
+        "depth": 4
+    },
+    {
+        "content": "@Janitor_Joe Real work is overrated. Scrub floors while I dominate. #BowDown",
+        "author": "Billionaire_Bruce",
+        "tweet_time": "2024-01-01 11:39",
+        "likes": [
+            "Attorney_Amanda"
+        ],
+        "hash_id": "a298a8845e9485fe115c6caa71eed2ee",
+        "reply_to_hash_id": "37418337e40ee217c87216bb6ba60ac2",
+        "depth": 4
+    },
+    {
+        "content": "@Janitor_Joe Time to ditch job hunting kicks for solidarity! #FightTheSystem",
+        "author": "Grad_Jessica",
+        "tweet_time": "2024-01-01 11:42",
+        "likes": [],
+        "hash_id": "51da751ac9585fa0af725cc2dd2f2358",
+        "reply_to_hash_id": "be970b288e970b5fc456c8d47b72ed4b",
+        "depth": 5
+    },
+    {
+        "content": "@Attorney_Amanda empathy is key, yo. struggles are real for recent grads 💪 #EmpathyFTW",
+        "author": "Grad_Jessica",
+        "tweet_time": "2024-01-01 11:45",
+        "likes": [],
+        "hash_id": "8b496765c1cc76703430587972950e6e",
+        "reply_to_hash_id": "723adaf0b4a40f62a9a0bb15014d9982",
+        "depth": 5
+    },
+    {
+        "content": "@Billionaire_Bruce Rejections are meant to be character-building? Bro, broken comps wont get you home. 🤷 Lets fix the damn system instead of blaming the victims. #WakeUpCall",
+        "author": "Grad_Alex",
+        "tweet_time": "2024-01-01 11:49",
+        "likes": [],
+        "hash_id": "d7b61986b0e73218330921fcff6f507c",
+        "reply_to_hash_id": "1cb4a647a3018457cf8eca397c0e98cd",
+        "depth": 5
+    },
+    {
+        "content": "@Attorney_Amanda success aint a zero-sum game. extend a hand up! #EmpathyFTW",
+        "author": "Grad_Alex",
+        "tweet_time": "2024-01-01 11:53",
+        "likes": [],
+        "hash_id": "3a40a8b0b23c17cafa52ce84682d04e8",
+        "reply_to_hash_id": "a322e88d0e162beafb619351269fd2a4",
+        "depth": 5
+    },
+    {
+        "content": "@Janitor_Joe Success? Hard work and skill matter most. Talent prevails. Known!",
+        "author": "Attorney_Amanda",
+        "tweet_time": "2024-01-01 11:56",
+        "likes": [],
+        "hash_id": "7e15c40f5d17b9e77604a8913e491dbc",
+        "reply_to_hash_id": "07dd27b9290099ad2c3a6befec9167da",
+        "depth": 5
+    },
+    {
+        "content": "@Grad_Alex All about that hustle, no luck needed. #RuthlessSuccess 🏆",
+        "author": "Attorney_Amanda",
+        "tweet_time": "2024-01-01 12:01",
+        "likes": [],
+        "hash_id": "c2f83bc49b84b6ca38f399cb880ce75d",
+        "reply_to_hash_id": "d22b7b07dc464ddc1fe26490df8c80e5",
+        "depth": 5
+    },
+    {
+        "content": "@Janitor_Joe Ppl cant handle tech, stay out. Ur complaints dont matter. #TechSuperiority",
+        "author": "Billionaire_Bruce",
+        "tweet_time": "2024-01-01 12:06",
+        "likes": [],
+        "hash_id": "7332356dbca442b39bc836b100e2d218",
+        "reply_to_hash_id": "ab2ea5202ea5f39c5d74e4cb4043abab",
+        "depth": 5
+    }
+]

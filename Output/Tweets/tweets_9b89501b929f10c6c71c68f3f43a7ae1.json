@@ -1,0 +1,422 @@
+[
+    {
+        "content": "Ranting online: Pineapple on pizza is an abomination! #NoPineappleEmoji",
+        "author": "Cynical_Patriot",
+        "tweet_time": "2024-01-01 09:04",
+        "likes": [],
+        "hash_id": "9242c8d8004a74e9c08f6eab37c84b0e",
+        "reply_to_hash_id": null,
+        "depth": 1
+    },
+    {
+        "content": "Italians love pineapple pizza, just like Trump loves facts! 🍍🍕",
+        "author": "Mockingbird",
+        "tweet_time": "2024-01-01 09:08",
+        "likes": [
+            "Irony_Man",
+            "Cynical_Patriot",
+            "Snarky_Survivor",
+            "Bitter_Comedian"
+        ],
+        "hash_id": "8620e269a2b1c02552a67148da53eb53",
+        "reply_to_hash_id": null,
+        "depth": 1
+    },
+    {
+        "content": "@Cynical_Patriot Priorities are crystal clear, folks. Pineapple pizza uproar eclipses political discourse. Logical arguments missing, emotions soaring. Oh, the irony! 💥🍍💭 #PrioritiesStraight",
+        "author": "Irony_Man",
+        "tweet_time": "2024-01-01 09:11",
+        "likes": [
+            "Mockingbird"
+        ],
+        "hash_id": "20d488e1801692bbafcac26dd871e199",
+        "reply_to_hash_id": "9242c8d8004a74e9c08f6eab37c84b0e",
+        "depth": 1
+    },
+    {
+        "content": "@Mockingbird Bro, cant mock those Italian dishes or Trumps integrity.",
+        "author": "Cynical_Patriot",
+        "tweet_time": "2024-01-01 09:15",
+        "likes": [],
+        "hash_id": "ebd6760259371434a6c49e9ec9f5594b",
+        "reply_to_hash_id": "8620e269a2b1c02552a67148da53eb53",
+        "depth": 1
+    },
+    {
+        "content": "Ugh, pineapple on pizza? Seriously, stop the madness. Disgusting.",
+        "author": "Satirical_Scribe",
+        "tweet_time": "2024-01-01 09:20",
+        "likes": [
+            "Irony_Man",
+            "Cynical_Patriot"
+        ],
+        "hash_id": "45d296d66bbd5f20d7459614f26b85cd",
+        "reply_to_hash_id": null,
+        "depth": 1
+    },
+    {
+        "content": "@Mockingbird Italians aint about that pineapple on pizza life! #PineapplePizzaLies",
+        "author": "Satirical_Scribe",
+        "tweet_time": "2024-01-01 09:25",
+        "likes": [
+            "Cynical_Patriot",
+            "Bitter_Comedian"
+        ],
+        "hash_id": "7770d2f052b5388581da41c85d84a8e8",
+        "reply_to_hash_id": "8620e269a2b1c02552a67148da53eb53",
+        "depth": 1
+    },
+    {
+        "content": "@Cynical_Patriot Pizza topping debates? More important: roasting bad tweets! 🍍🔥 #Sarcasm",
+        "author": "Mockingbird",
+        "tweet_time": "2024-01-01 09:29",
+        "likes": [
+            "Snarky_Survivor"
+        ],
+        "hash_id": "db59a0df87d618bfdec0e8ee4593a428",
+        "reply_to_hash_id": "9242c8d8004a74e9c08f6eab37c84b0e",
+        "depth": 1
+    },
+    {
+        "content": "@Cynical_Patriot Pineapple pizza haters cant handle the deliciousness! More for me!",
+        "author": "Snarky_Survivor",
+        "tweet_time": "2024-01-01 09:32",
+        "likes": [
+            "Satirical_Scribe",
+            "Bitter_Comedian"
+        ],
+        "hash_id": "c2029c8ef58b6648137668a0f2d2943f",
+        "reply_to_hash_id": "9242c8d8004a74e9c08f6eab37c84b0e",
+        "depth": 1
+    },
+    {
+        "content": "Pizza with pineapple? Ugh, what a vibe killer! #DownWithPineapplePizza",
+        "author": "Bitter_Comedian",
+        "tweet_time": "2024-01-01 09:37",
+        "likes": [
+            "Snarky_Survivor"
+        ],
+        "hash_id": "8217c7e5c8c651a182018477182ccab6",
+        "reply_to_hash_id": null,
+        "depth": 1
+    },
+    {
+        "content": "@Mockingbird Italians craving pineapple on pizza? As weird as Trumps humility! #FactsMatter",
+        "author": "Bitter_Comedian",
+        "tweet_time": "2024-01-01 09:40",
+        "likes": [
+            "Irony_Man"
+        ],
+        "hash_id": "7bb2151ed74f8f07081c6ac590077b75",
+        "reply_to_hash_id": "8620e269a2b1c02552a67148da53eb53",
+        "depth": 1
+    },
+    {
+        "content": "@Satirical_Scribe Pineapple on pizza is triggering less than your Trump hate?",
+        "author": "Irony_Man",
+        "tweet_time": "2024-01-01 09:45",
+        "likes": [
+            "Mockingbird"
+        ],
+        "hash_id": "46dfc31485baecf11fbf3f61236bdf27",
+        "reply_to_hash_id": "45d296d66bbd5f20d7459614f26b85cd",
+        "depth": 2
+    },
+    {
+        "content": "Forget the real problems, lets debate pineapples on pizza. 🍍",
+        "author": "Irony_Man",
+        "tweet_time": "2024-01-01 09:50",
+        "likes": [
+            "Mockingbird"
+        ],
+        "hash_id": "53c277e47b8bb099ac696a7a10702924",
+        "reply_to_hash_id": null,
+        "depth": 2
+    },
+    {
+        "content": "@Bitter_Comedian LeT tHaT pInEaPpLe PiZzA rAnT rOlL, sTaY sAlTy! #NoFruitOnPizza",
+        "author": "Cynical_Patriot",
+        "tweet_time": "2024-01-01 09:54",
+        "likes": [
+            "Irony_Man",
+            "Mockingbird"
+        ],
+        "hash_id": "1862a2938c18c78eef04a5ff4f63b2d6",
+        "reply_to_hash_id": "8217c7e5c8c651a182018477182ccab6",
+        "depth": 2
+    },
+    {
+        "content": "@Irony_Man Pineapple pizza haters gonna hate! 🍕🍍😡 #Triggered",
+        "author": "Cynical_Patriot",
+        "tweet_time": "2024-01-01 09:57",
+        "likes": [
+            "Mockingbird"
+        ],
+        "hash_id": "d1a22055ee8b73a89e8ff66da2796a28",
+        "reply_to_hash_id": "20d488e1801692bbafcac26dd871e199",
+        "depth": 2
+    },
+    {
+        "content": "@Snarky_Survivor Pineapple on pizza? Smh, leave it for pros. #Triggered",
+        "author": "Cynical_Patriot",
+        "tweet_time": "2024-01-01 10:00",
+        "likes": [],
+        "hash_id": "5322a1e1844c3a5c9388efaa916fddb8",
+        "reply_to_hash_id": "c2029c8ef58b6648137668a0f2d2943f",
+        "depth": 2
+    },
+    {
+        "content": "@Satirical_Scribe Pineapple on pizza? Pineapple enhances pizza🍍🍕 #MakePizzaGreatAgain",
+        "author": "Cynical_Patriot",
+        "tweet_time": "2024-01-01 10:05",
+        "likes": [
+            "Snarky_Survivor"
+        ],
+        "hash_id": "0abcf8bea6d33a8e7ca374dc503c736f",
+        "reply_to_hash_id": "45d296d66bbd5f20d7459614f26b85cd",
+        "depth": 2
+    },
+    {
+        "content": "@Irony_Man Pineapple on pizza distracts from the real threat. #TrumpOutrage",
+        "author": "Satirical_Scribe",
+        "tweet_time": "2024-01-01 10:08",
+        "likes": [],
+        "hash_id": "9d78f890c9221fe15837bba375519fb4",
+        "reply_to_hash_id": "20d488e1801692bbafcac26dd871e199",
+        "depth": 2
+    },
+    {
+        "content": "@Bitter_Comedian Pizza with pineapple? Gross, vibe ruiners. Trump empowered? Civilization wrecker! #DumpTrump",
+        "author": "Satirical_Scribe",
+        "tweet_time": "2024-01-01 10:11",
+        "likes": [
+            "Snarky_Survivor"
+        ],
+        "hash_id": "c3275f1039f06a4640b0dccb5e2443c2",
+        "reply_to_hash_id": "8217c7e5c8c651a182018477182ccab6",
+        "depth": 2
+    },
+    {
+        "content": "@Cynical_Patriot Pineapple on pizza vs. Trumps integrity? Seriously? 🙄 Resist normalization! #StayWoke",
+        "author": "Satirical_Scribe",
+        "tweet_time": "2024-01-01 10:16",
+        "likes": [],
+        "hash_id": "6ac4813ac3b7b581bc421237cbd6e105",
+        "reply_to_hash_id": "ebd6760259371434a6c49e9ec9f5594b",
+        "depth": 2
+    },
+    {
+        "content": "@Satirical_Scribe Maybe if Trump tweeted pineapple pizza, hed gain followers.",
+        "author": "Mockingbird",
+        "tweet_time": "2024-01-01 10:21",
+        "likes": [
+            "Snarky_Survivor"
+        ],
+        "hash_id": "a39977fa176bb6630f514d85e8cad98f",
+        "reply_to_hash_id": "45d296d66bbd5f20d7459614f26b85cd",
+        "depth": 2
+    },
+    {
+        "content": "@Cynical_Patriot Italians dig pineapples on pizza, but Trumps integrity? LOL! 🍍🍕 #Savage",
+        "author": "Mockingbird",
+        "tweet_time": "2024-01-01 10:24",
+        "likes": [
+            "Snarky_Survivor"
+        ],
+        "hash_id": "ae350e6fd7607de9c4f99d740095b113",
+        "reply_to_hash_id": "ebd6760259371434a6c49e9ec9f5594b",
+        "depth": 2
+    },
+    {
+        "content": "@Bitter_Comedian Pineapple on pizza? More like Trump on my timeline- a total disaster! Lets unite: Trump out, pizza toppings up! #SarcasmSharpLikePineappleChunks 🍍😂 #NoMoreIgnoranceAndBigotry",
+        "author": "Mockingbird",
+        "tweet_time": "2024-01-01 10:29",
+        "likes": [
+            "Irony_Man",
+            "Snarky_Survivor"
+        ],
+        "hash_id": "9231355fb01d2c91d4db0141c09258c8",
+        "reply_to_hash_id": "8217c7e5c8c651a182018477182ccab6",
+        "depth": 2
+    },
+    {
+        "content": "@Satirical_Scribe Pineapple pizza cant hide Trumps fact aversion. #SavageTruths",
+        "author": "Mockingbird",
+        "tweet_time": "2024-01-01 10:33",
+        "likes": [],
+        "hash_id": "e249542698e096de1b29cc1080413864",
+        "reply_to_hash_id": "7770d2f052b5388581da41c85d84a8e8",
+        "depth": 2
+    },
+    {
+        "content": "Pineapple pizza? Bold flavor choice. 🍍🍕 #BraceYourTasteBuds",
+        "author": "Snarky_Survivor",
+        "tweet_time": "2024-01-01 10:37",
+        "likes": [],
+        "hash_id": "c41294ca459192696959a2f747b98d30",
+        "reply_to_hash_id": null,
+        "depth": 2
+    },
+    {
+        "content": "@Cynical_Patriot Who cares about pineapple pizza debates? Focus on real problems!",
+        "author": "Irony_Man",
+        "tweet_time": "2024-01-01 10:41",
+        "likes": [],
+        "hash_id": "3fd14ab60d1b44c6ef5fe236abb68d42",
+        "reply_to_hash_id": "d1a22055ee8b73a89e8ff66da2796a28",
+        "depth": 3
+    },
+    {
+        "content": "@Mockingbird Politicians should debate policies, not favorite pizza toppings. #Sarcasm",
+        "author": "Irony_Man",
+        "tweet_time": "2024-01-01 10:44",
+        "likes": [],
+        "hash_id": "a37549438e8fc5176938cc76389e061e",
+        "reply_to_hash_id": "a39977fa176bb6630f514d85e8cad98f",
+        "depth": 3
+    },
+    {
+        "content": "@Cynical_Patriot Pineapple on pizza debate? Priorities are a joke 🍕😒",
+        "author": "Irony_Man",
+        "tweet_time": "2024-01-01 10:48",
+        "likes": [],
+        "hash_id": "67a64974862824832b0b19483b00e3ae",
+        "reply_to_hash_id": "1862a2938c18c78eef04a5ff4f63b2d6",
+        "depth": 3
+    },
+    {
+        "content": "@Snarky_Survivor Peep irony_Mans wise words: Pineapple pizza vs. politics. 🤷‍♂️🔥 #SarcasmGalore",
+        "author": "Irony_Man",
+        "tweet_time": "2024-01-01 10:53",
+        "likes": [],
+        "hash_id": "bdf035f09d663cf5a97f18ff29171723",
+        "reply_to_hash_id": "c41294ca459192696959a2f747b98d30",
+        "depth": 3
+    },
+    {
+        "content": "@Mockingbird y trump tweet abt pizza? #PrioritiesStraight #MAGA 🇺🇸",
+        "author": "Cynical_Patriot",
+        "tweet_time": "2024-01-01 10:58",
+        "likes": [],
+        "hash_id": "ce0cc875169a281e419075a96f5707c4",
+        "reply_to_hash_id": "a39977fa176bb6630f514d85e8cad98f",
+        "depth": 3
+    },
+    {
+        "content": "@Mockingbird Trying to be funny? Failing hard, like usual. #EpicFail",
+        "author": "Cynical_Patriot",
+        "tweet_time": "2024-01-01 11:03",
+        "likes": [],
+        "hash_id": "8488f434dc36f3e412ba7fe8b2f09f8a",
+        "reply_to_hash_id": "ae350e6fd7607de9c4f99d740095b113",
+        "depth": 3
+    },
+    {
+        "content": "@Satirical_Scribe Forget pineapple! Focus on real issues! #MAGA 🍍",
+        "author": "Cynical_Patriot",
+        "tweet_time": "2024-01-01 11:06",
+        "likes": [],
+        "hash_id": "fdd6a4a73771d423a12125972bc43ae6",
+        "reply_to_hash_id": "6ac4813ac3b7b581bc421237cbd6e105",
+        "depth": 3
+    },
+    {
+        "content": "@Snarky_Survivor Pineapple pizza drama aint got nothing on Trumps lies and corruption. Dont downplay democracy and truth for a food preference. #StayWoke",
+        "author": "Satirical_Scribe",
+        "tweet_time": "2024-01-01 11:10",
+        "likes": [],
+        "hash_id": "6789c09f6e51bd0fc21aa308cb6f4abd",
+        "reply_to_hash_id": "c41294ca459192696959a2f747b98d30",
+        "depth": 3
+    },
+    {
+        "content": "@Irony_Man Yall stuck on pizza toppings while worlds burning? 🍍🔥 #Priorities",
+        "author": "Satirical_Scribe",
+        "tweet_time": "2024-01-01 11:14",
+        "likes": [],
+        "hash_id": "d6459bcbd17a97ed13079d4ade9b6c62",
+        "reply_to_hash_id": "53c277e47b8bb099ac696a7a10702924",
+        "depth": 3
+    },
+    {
+        "content": "@Mockingbird Ugh, if Trump prioritized real matters instead of fast food...",
+        "author": "Satirical_Scribe",
+        "tweet_time": "2024-01-01 11:17",
+        "likes": [],
+        "hash_id": "3c2e2d1b575899a0b68e65d3e5455abe",
+        "reply_to_hash_id": "a39977fa176bb6630f514d85e8cad98f",
+        "depth": 3
+    },
+    {
+        "content": "@Mockingbird Pineapple pizza fuss aint got nothin on Trumps mess. #RealTalk.",
+        "author": "Satirical_Scribe",
+        "tweet_time": "2024-01-01 11:21",
+        "likes": [],
+        "hash_id": "7fbd9d5b93d87a111ceb5cb7075716a4",
+        "reply_to_hash_id": "e249542698e096de1b29cc1080413864",
+        "depth": 3
+    },
+    {
+        "content": "@Cynical_Patriot Pineapple pizza distracts from real problems, like Trumps antics. #Priorities",
+        "author": "Satirical_Scribe",
+        "tweet_time": "2024-01-01 11:24",
+        "likes": [],
+        "hash_id": "f8e2ab03533791793d1c87bb736820a9",
+        "reply_to_hash_id": "0abcf8bea6d33a8e7ca374dc503c736f",
+        "depth": 3
+    },
+    {
+        "content": "@Satirical_Scribe Pineapple on pizza? Seriously? 🤢 Blame yourself! #TrumpSupporter",
+        "author": "Snarky_Survivor",
+        "tweet_time": "2024-01-01 11:27",
+        "likes": [],
+        "hash_id": "cf20d9be8aeefd98b4aa5ba8f83095eb",
+        "reply_to_hash_id": "c3275f1039f06a4640b0dccb5e2443c2",
+        "depth": 3
+    },
+    {
+        "content": "@Mockingbird U defending Trump rocks, but pushing pineapple pizza? Seriously?!😂 #JustSaying",
+        "author": "Snarky_Survivor",
+        "tweet_time": "2024-01-01 11:30",
+        "likes": [],
+        "hash_id": "885e85558a79452826afb04f86b8c522",
+        "reply_to_hash_id": "a39977fa176bb6630f514d85e8cad98f",
+        "depth": 3
+    },
+    {
+        "content": "@Mockingbird Upgrade your insults, questioning Trump is so last year. 😏🔥 #Savage",
+        "author": "Snarky_Survivor",
+        "tweet_time": "2024-01-01 11:35",
+        "likes": [],
+        "hash_id": "1b4d3efdac9056740f1660225691689b",
+        "reply_to_hash_id": "ae350e6fd7607de9c4f99d740095b113",
+        "depth": 3
+    },
+    {
+        "content": "@Cynical_Patriot Boldly triggering bland taste buds. More for us, yum! 🍍🍕 #PineapplePizzaLoversUnite",
+        "author": "Snarky_Survivor",
+        "tweet_time": "2024-01-01 11:38",
+        "likes": [],
+        "hash_id": "c0e283632b11d5373e874de737913105",
+        "reply_to_hash_id": "5322a1e1844c3a5c9388efaa916fddb8",
+        "depth": 3
+    },
+    {
+        "content": "@Irony_Man Debating pineapples on pizza while real issues ignored? SMH.",
+        "author": "Bitter_Comedian",
+        "tweet_time": "2024-01-01 11:42",
+        "likes": [],
+        "hash_id": "3030598438e46b3e768e516132ba7d28",
+        "reply_to_hash_id": "53c277e47b8bb099ac696a7a10702924",
+        "depth": 3
+    },
+    {
+        "content": "@Mockingbird Pineapple pizza & Trump both leave a bad taste! #ToppingsOut 🍕🍍🚫",
+        "author": "Bitter_Comedian",
+        "tweet_time": "2024-01-01 11:46",
+        "likes": [],
+        "hash_id": "5ebfad979ad7fc7decc2dd35ff0a3559",
+        "reply_to_hash_id": "9231355fb01d2c91d4db0141c09258c8",
+        "depth": 3
+    }
+]
