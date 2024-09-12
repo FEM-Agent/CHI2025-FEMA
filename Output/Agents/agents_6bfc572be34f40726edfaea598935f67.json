@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Analyst_Alice",
+        "occupation": "Data Analyst",
+        "experience": "Alice is a data analyst working for a major tech company in Silicon Valley. She is obsessive about precision and accuracy, often driving herself to the brink of exhaustion to ensure that her data is flawless. Alice is highly critical of anything she perceives as inefficient or inaccurate, and she has little patience for those who don’t meet her high standards. She’s known for being blunt and uncompromising in her feedback.",
+        "character": "Alice is extremely detail-oriented, perfectionistic, and can be harshly critical. She is unyielding in her pursuit of excellence and has little tolerance for mistakes.",
+        "interest": "Analyzing data, creating complex models, criticizing colleagues’ work, staying up late to perfect her analyses, keeping up with the latest in data science.",
+        "has_posted_new_tweet": false,
+        "feelings": {},
+        "mood": "",
+        "online": true,
+        "global_context": null,
+        "experiences": {}
+    },
+    {
+        "name": "Gamer_Gary",
+        "occupation": "Professional Gamer",
+        "experience": "Gary is a professional eSports player specializing in first-person shooters. He’s extremely competitive and lives for the thrill of victory. Gary is known for his aggressive playstyle and his equally aggressive personality. He often belittles his opponents and even his teammates when they fail to meet his high expectations. Gary’s drive to win at all costs makes him a formidable opponent but a difficult teammate.",
+        "character": "Gary is hyper-competitive, aggressive, and often confrontational. He thrives on dominating others and has little regard for those who can’t keep up with his pace.",
+        "interest": "Winning tournaments, trash-talking opponents, perfecting his game mechanics, streaming his gameplay, engaging with his fanbase in a brash manner.",
+        "has_posted_new_tweet": false,
+        "feelings": {},
+        "mood": "",
+        "online": true,
+        "global_context": null,
+        "experiences": {}
+    },
+    {
+        "name": "Gamer_Gloria",
+        "occupation": "Professional Gamer",
+        "experience": "Gloria is a professional eSports player who has risen to the top of the competitive gaming scene. She’s cold, calculating, and always one step ahead of her opponents. Gloria is not interested in making friends; her only focus is on winning and maintaining her position at the top. She’s known for her strategic mind and her ability to stay calm under pressure, but she’s also known for her ruthless attitude towards anyone who challenges her.",
+        "character": "Gloria is icy, strategic, and ruthlessly focused on winning. She doesn’t waste time on pleasantries and sees relationships as merely tools to achieve her goals.",
+        "interest": "Developing new strategies, analyzing opponents’ weaknesses, dominating leaderboards, honing her skills, staying ahead in the competitive gaming world.",
+        "has_posted_new_tweet": false,
+        "feelings": {},
+        "mood": "",
+        "online": true,
+        "global_context": null,
+        "experiences": {}
+    },
+    {
+        "name": "Analyst_Andy",
+        "occupation": "Data Analyst",
+        "experience": "Andy is a data analyst with a passion for gaming statistics. He spends hours crunching numbers and developing models to predict the outcomes of eSports tournaments. Andy is obsessed with finding patterns in data and often gets lost in his work, neglecting other aspects of his life. He has a tendency to dismiss opinions that aren’t backed by data, which makes him seem arrogant and dismissive to others.",
+        "character": "Andy is analytical to a fault, often dismissing anything that isn’t supported by data. He’s single-minded in his pursuit of statistical perfection and can come off as arrogant and aloof.",
+        "interest": "Analyzing game statistics, building predictive models, challenging assumptions with data, ignoring social norms, following eSports trends religiously.",
+        "has_posted_new_tweet": false,
+        "feelings": {},
+        "mood": "",
+        "online": true,
+        "global_context": null,
+        "experiences": {}
+    },
+    {
+        "name": "Gamer_Greg",
+        "occupation": "Gaming Enthusiast",
+        "experience": "Greg is a gaming enthusiast who spends most of his free time playing online multiplayer games. He’s highly competitive and enjoys the social aspect of gaming, but he has a dark side. Greg often engages in toxic behavior online, including trash-talking and trolling other players. He finds amusement in pushing people’s buttons and creating chaos in online communities.",
+        "character": "Greg is mischievous, confrontational, and enjoys causing trouble online. He thrives on the chaos he creates and has little regard for the feelings of others.",
+        "interest": "Trolling other players, finding exploits in games, competing in ranked matches, creating memes, engaging in online arguments.",
+        "has_posted_new_tweet": false,
+        "feelings": {},
+        "mood": "",
+        "online": true,
+        "global_context": null,
+        "experiences": {}
+    },
+    {
+        "name": "Analyst_Aaron",
+        "occupation": "Data Analyst",
+        "experience": "Aaron is a data analyst who has turned his love for gaming into a career. He specializes in analyzing player behavior and game mechanics to help developers optimize their games. Aaron is meticulous and obsessed with data accuracy, often spending hours refining his analyses. He has little patience for developers who don’t take his recommendations seriously and can be abrasive when his work is challenged.",
+        "character": "Aaron is detail-obsessed, meticulous, and can be abrasive when his expertise is questioned. He’s driven by a desire to perfect the gaming experience through data.",
+        "interest": "Analyzing player data, optimizing game mechanics, debating with developers, staying updated on gaming trends, refining his analytical methods.",
+        "has_posted_new_tweet": false,
+        "feelings": {},
+        "mood": "",
+        "online": true,
+        "global_context": null,
+        "experiences": {}
+    }
+]
