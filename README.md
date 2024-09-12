@@ -1,60 +1,55 @@
 # FEMA: Emotion-Driven Personification in Generative Agents
 
 ## Overview
-This repository contains the code for the FEMA (Feeling-Emotional-Moody Agent) framework, which was developed as part of our research on emotional personification in generative agents. The framework integrates emotional perception, personality traits, and contextual awareness into agents, enabling them to engage in more human-like and emotionally resonant interactions.
+This repository contains the implementation of the FEMA framework, which enables generative agents to exhibit human-like emotional perception and expression. The goal of FEMA is to enhance the realism of agents by incorporating emotional variability and personality-driven responses, making interactions more engaging and contextually relevant.
 
-This project was submitted to CHI 2025 as part of the paper "FEMA: Emotion-Driven Personification in Generative Agents."
+This project is part of the **CHI 2025** paper submission titled *"FEMA: Emotion-Driven Personification in Generative Agents."*
 
 ## Features
-- **Emotional Perception and Expression**: Agents simulate emotions dynamically, allowing for more realistic interactions.
-- **Personality Customization**: The framework supports the customization of agents' emotional states and personality traits.
-- **Contextual Awareness**: Agents take conversation history into account to provide coherent and relevant responses.
+- **Emotion Perception and Expression**: Agents perceive and express a range of emotions, ensuring human-like interactions.
+- **Personality Customization**: Each agent can be tailored to a specific personality, influencing their behavior and responses.
+- **Contextual Awareness**: The framework leverages conversation history and virtual time, ensuring agents' responses are coherent and emotionally consistent.
 
 ## Installation
 
-To set up the project, follow these steps:
+Follow these steps to install and run the project:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/FEM-Agent/CHI2025.git
-    cd CHI2025
+    git clone https://github.com/FEM-Agent/CHI2025-FEMA.git
+    cd CHI2025-FEMA
     ```
 
 2. **Install dependencies**:
-    The project requires several Python packages that are listed in the `requirements.txt` file. Install them using the following command:
+    Install all necessary Python packages from the `requirements.txt` file.
     ```bash
     pip install -r requirements.txt
     ```
 
 3. **Configure GPT API**:
-    - Open the `config.py` file in a text editor.
-    - Add your GPT API key in the following section:
-      ```python
-      gpt_api_key = "your_openai_api_key"
-      ```
+   - Open the `config.py` file.
+   - Add your GPT API credentials (API key) in the following section:
+     ```python
+     gpt_api_key = "your_openai_api_key"
+     ```
 
-4. **Start the server**:
-    Once you've installed the dependencies and configured the API, you can run the server with:
+4. **Run the server**:
     ```bash
     python server.py
     ```
 
 ## Usage
-After running the server, agents powered by the FEMA framework will be available for interaction. You can access them via the web interface or API endpoints. Each agent can be configured with specific emotional and personality traits, making their interactions varied and emotionally dynamic.
+After running the server, you can interact with the agents via provided API endpoints or the web interface. The system allows for agent configuration and personalization, enabling you to observe how they respond to various scenarios with emotional and logical coherence.
 
 ## Configuration
-- **Agent Setup**: You can customize agent profiles by modifying their emotional attributes and behaviors in the respective configuration files.
-- **Contextual Data**: The system maintains global context and virtual time, which are factored into the agents' responses, ensuring a contextually relevant dialogue flow.
+- **Agents**: Define and modify agents' emotional states, personalities, and behavior in the configuration files.
+- **Global Context**: The system tracks virtual time and conversation history, which influences how agents generate responses based on their mood and experiences.
 
 ## Contributions
-We welcome contributions! Feel free to submit pull requests, report issues, or suggest features to help improve this framework. Please adhere to the contribution guidelines and ensure that any contributions align with the overall project goals.
+We encourage contributions from the community. Feel free to submit issues, feature requests, or pull requests to help improve the framework.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/FEM-Agent/CHI2025/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Acknowledgements
-This project was built using OpenAI's GPT models and other open-source tools. We extend our gratitude to the open-source community for their invaluable contributions.
-
----
-
-For any questions or issues, please feel free to open a discussion or contact us via the repository.
+This project uses OpenAI's GPT models and other open-source libraries. Special thanks to the open-source community for their continuous contributions.
