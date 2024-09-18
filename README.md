@@ -26,7 +26,13 @@ Follow these steps to install and run the project:
     pip install -r requirements.txt
     ```
 
-3. **Download Sentence-Transformers model**:
+3. **Install PyTorch**:
+    Ensure you have PyTorch installed. You can install the appropriate version for your environment by following the instructions at [PyTorch's official website](https://pytorch.org/get-started/locally/), or you can install it directly via pip:
+    ```bash
+    pip install torch
+    ```
+
+4. **Download Sentence-Transformers model**:
     - Download the pre-trained model `all-MiniLM-L6-v2` from the [Hugging Face model hub](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2).
     - Create a directory named `Models` in the project root if it doesn't exist:
       ```bash
@@ -34,14 +40,14 @@ Follow these steps to install and run the project:
       ```
     - Place the downloaded model files into the `Models` directory.
 
-4. **Configure GPT API**:
+5. **Configure GPT API**:
    - Open the `llm_base.py` file.
    - Add your GPT API credentials (API key) in the following section:
      ```python
      api_key = "your_openai_api_key"
      ```
 
-5. **Run the server**:
+6. **Run the server**:
     ```bash
     python server.py
     ```
